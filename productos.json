@@ -1,0 +1,51 @@
+[
+      {
+        "id": "celular1",
+        "nombre": "Samsung Galaxy S22",
+        "precio": 3299,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/samsung-galaxy-note20-ultra_10e39999-fcc4-4a58-816a-308818d42a55_200x.png?v=1621301832"
+      },
+      {
+        "id": "celular2",
+        "nombre": "Apple iPhone 11 Pro ",
+        "precio": 2299,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/apple-iphone-pro-10_700x_645b3134-8312-4cd6-ae3c-0da123cce756_200x.png?v=1665798733"
+      },
+      {
+        "id": "celular3",
+        "nombre": "Samsung Galaxy A33 ",
+        "precio": 899,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/Samsung-galaxy-a70_a7d0d70a-a14e-4aee-a973-16e1447c6c01_200x.png?v=1621301805"
+      },
+      {
+        "id": "celular4",
+        "nombre": "Samsung Galaxy A50",
+        "precio": 1299,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/Samsung-galaxy-s20-plus_076ef2f5-e5fa-454f-bc33-6f19acfc5282_200x.png?v=1621301848"
+      },
+      {
+        "id": "celular5",
+        "nombre": "Apple iPhone 8 256gb",
+        "precio": 3299,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/iphone_8_plus_700x_77e43ee7-3cec-4eea-855b-a0299a45204f_200x.png?v=1665798983"
+      },
+      {
+        "id": "celular6",
+        "nombre": "Samsung Galaxy A52S ",
+        "precio": 999,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/Samsung-galaxy-s20-fe_cd8db75c-e7f5-4915-b5d5-b97d991dd16a_200x.png?v=1621301846"
+      },
+      {
+        "id": "celular7",
+        "nombre": "Apple iPhone XR 256gb ",
+        "precio": 1399,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/Apple_Iphone_XR_700x_2b0d3bfa-fb11-4129-a234-b4c07c3bb093_300x.png?v=1665798616"
+      },
+      {
+        "id": "celular8",
+        "nombre": "iPhone 7 Plus 128gb ",
+        "precio": 799,
+        "imagen": "https://cdn.shopify.com/s/files/1/0271/0922/8578/products/Iphone-7-plus_700x_7557c931-9f30-4160-b685-fec76708d191_300x.png?v=1665798923"
+     }
+  ]
+
