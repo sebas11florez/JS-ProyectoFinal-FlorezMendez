@@ -44,7 +44,9 @@ function actualizarBotonesAgregar() {
   });
 }
 
-let productosEnCarrito;
+// let productosEnCarrito;
+let productosEnCarrito = localStorage.getItem("productos-en-carrito");
+productosEnCarrito = JSON.parse(productosEnCarrito);
 
 let productosEnCarritoLS = localStorage.getItem("productos-en-carrito");
 
@@ -107,8 +109,8 @@ function actualizarNumerito() {
   numerito.innerText = nuevoNumerito;
 }
 
-productosEnCarrito = localStorage.getItem("productos-en-carrito");
-productosEnCarrito = JSON.parse(productosEnCarrito);
+// productosEnCarrito = localStorage.getItem("productos-en-carrito");
+// productosEnCarrito = JSON.parse(productosEnCarrito);
 
 const contenedorCarritoVacio = document.querySelector("#carrito-vacio");
 const contenedorCarritoTitulo = document.querySelector("#carrito-titul");
